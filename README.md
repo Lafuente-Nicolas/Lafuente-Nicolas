@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there 👋, I'm Nicolas
 
-<!--
-**Lafuente-Nicolas/Lafuente-Nicolas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
+I’m currently undergoing training as a **Web Developer and Integrator** at **Simplon**. I'm 19 years old and passionate about web development. I’m eager to learn new technologies and frameworks. I’m focusing on mastering the fundamentals of web development, such as HTML, CSS, and JavaScript, while exploring modern frameworks and tools.
 
-Here are some ideas to get you started:
+## 🚀 Goals
+- In my upcoming projects, I’d like to create a fully functional website and design its user interface, focusing on both design and user experience.
+- Continue learning web development and improving my skills with both front-end and back-end technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 Technologies I’m Learning
+- HTML, CSS, JavaScript
+- Markdown
+- Git, Git-up
