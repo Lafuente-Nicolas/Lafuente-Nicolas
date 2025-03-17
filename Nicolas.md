@@ -10,4 +10,4 @@ I’m currently undergoing training as a **Web Developer and Integrator** at **S
 ## 💡 Technologies I’m Learning
 - HTML, CSS, JavaScript
 - Markdown
-- Git, GitHub
+- Git, GitHub 
