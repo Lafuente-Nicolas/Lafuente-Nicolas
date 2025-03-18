@@ -1,6 +1,5 @@
 # Hi there 👋, I'm Nicolas
 
-![Profile Banner](https://via.placeholder.com/1200x300.png?text=Welcome+to+my+GitHub+Profile)
 
 ## 👨‍💻 About Me
 I’m currently undergoing training as a **Web Developer and Integrator** at **Simplon**. I'm 19 years old and passionate about web development. I’m eager to learn new technologies and frameworks. I’m focusing on mastering the fundamentals of web development, such as HTML, CSS, and JavaScript, while exploring modern frameworks and tools.
@@ -39,8 +38,6 @@ I’m currently undergoing training as a **Web Developer and Integrator** at **S
   <img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=radical&no-bg=true&margin-w=15" alt="GitHub Trophies"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=your-github-username&theme=radical" alt="GitHub Contribution Graph"/>
-</p>
 
 
 ## 🎯 Let's Connect
