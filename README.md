@@ -2,7 +2,7 @@
 
 
 ## 👨‍💻 About Me
-I’m currently undergoing training as a **Web Developer and Integrator** at **Simplon**. I'm 19 years old and passionate about web development. I’m eager to learn new technologies and frameworks. I’m focusing on mastering the fundamentals of web development, such as HTML, CSS, and JavaScript, while exploring modern frameworks and tools.
+I’m currently undergoing training as a **front-end Developer** at **Simplon**. I'm 19 years old and passionate about web development. I’m eager to learn new technologies and frameworks. I’m focusing on mastering the fundamentals of web development, such as HTML, CSS, and JavaScript, while exploring modern frameworks and tools.
 
 ## 🚀 Goals
 - In my upcoming projects, I’d like to create a fully functional website and design its user interface, focusing on both design and user experience.
