@@ -65,13 +65,6 @@ Outside tech, my experience in the restaurant industry has given me a strong sen
 
 ---
 
-## 🐍 Dynamic Contribution Snake
-
-![GitHub Contribution](https://ghchart.rshah.org/Lafuente-Nicolas)
-
-
----
-
 ## 🎯 Let’s Connect!
 💬 I like meeting other developers! Feel free to connect to **collaborate**, **share ideas**, or just **talk tech**.
 
