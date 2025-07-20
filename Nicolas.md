@@ -67,7 +67,8 @@ Outside tech, my experience in the restaurant industry has given me a strong sen
 
 ## 🐍 Dynamic Contribution Snake
 
-![snake gif](https://github.com/Lafuente-Nicolas/Lafuente-Nicolas/blob/output/github-contribution-grid-snake.svg)
+![GitHub Contribution](https://ghchart.rshah.org/Lafuente-Nicolas)
+
 
 ---
 
